@@ -1,0 +1,8 @@
+[submodule "refs/blocklist-ipsets"]
+	path = refs/blocklist-ipsets
+	url = https://github.com/firehol/blocklist-ipsets.git
+	branch = master
+[submodule "refs/ipsum"]
+	path = refs/ipsum
+	url = https://github.com/stamparm/ipsum
+	branch = master
