@@ -1,3 +1,7 @@
+[2022-01-19T23:55:16.116Z] "GET / HTTP/1.1" 404 - 0 0 1 0 "51.158.103.247" "-" "?" "?DOMAIN?" "?:?"
+[2022-01-20T01:31:07.821Z] "GET / HTTP/1.0" 426 - 0 0 0 - "-" "-" "-" "?:?" "-"
+[2022-01-20T01:36:46.113Z] "- - HTTP/1.1" 400 DPE 0 11 0 - "-" "-" "-" "-" "-"
+[2022-01-20T09:29:38.013Z] "GET /favicon.ico HTTP/1.0" 426 - 0 0 0 - "-" "masscan-ng/1.3 (https://github.com/bi-zone/masscan-ng)" "-" "-" "-"
 [2022-01-22T18:39:10.909Z] "GET /.env HTTP/1.1" 404 - 0 9 1 - "193.27.14.216" "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" "?" "?IP?" "?:?"
 [2022-01-22T18:39:11.414Z] "POST / HTTP/1.1" 405 - 20 18 1 - "193.27.14.216" "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" "?" "?IP?" "?:?"
 [2022-01-22T18:39:15.476Z] "POST / HTTP/1.1" 405 - 56 18 1 - "200.6.48.59" "python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.el7.x86_64" "?" "?IP?" "?:?"
