@@ -3,3 +3,4 @@
 [2022-01-22T18:39:15.476Z] "POST / HTTP/1.1" 405 - 56 18 1 - "200.6.48.59" "python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.el7.x86_64" "?" "?IP?" "?:?"
 [2022-01-22T19:54:36.494Z] "GET / HTTP/1.1" 200 - 0 133 4 - "128.1.248.26" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" "?" "?IP?" "?:?"
 [2022-01-22T19:59:22.864Z] "GET / HTTP/1.1" 200 - 0 133 1 - "64.225.75.232" "Mozilla/5.0 (Linux; Android 9; POT-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Mobile Safari/537.36" "?" "?IP?" "?:?"
+[2022-01-22T21:22:41.276Z] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 404 - 0 9 3 - "192.241.210.226" "Mozilla/5.0 zgrab/0.x" "*" "?IP?" "?:?"
