@@ -8,4 +8,5 @@ iptables -I INPUT -i eth0 -m set --match-set badip src -j DROP
 iptables -I DOCKER-USER -i eth0 -m set --match-set badip src -j DROP
 for var in `cat badnet`;do ipset add badnet $var;done
 for var in `cat badip`;do ipset add badip $var;done
+netfilter-persistent save
 
