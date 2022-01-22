@@ -1,7 +1,18 @@
 #!/bin/sh
 
 mkdir output
-cat refs/blocklist-ipsets/fire*.*set|grep -v "#" > hol.tmp.txt
+cat refs/blocklist-ipsets/*abuse*.*set|grep -v "#" > hol.tmp.txt
+cat refs/blocklist-ipsets/*spam*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*shield*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*bad*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*black*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*block*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/firehol_level2.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/firehol_level3.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/firehol_level4.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/firehol_ano*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/firehol_prox*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/firehol_web*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/ipsum/ipsum.txt | grep -v "#" | grep -v -E "\s[1-2]$" | cut -f 1 > ipsum.tmp.txt
 iprange hol.tmp.txt ipsum.tmp.txt refs/zzz/ipset.txt refs/zzz/netset.txt > tmp.txt
 grep "/" tmp.txt > net.tmp.txt
