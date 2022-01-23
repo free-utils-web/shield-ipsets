@@ -10,7 +10,7 @@ cat refs/blocklist-ipsets/*malic*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*attac*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*bot*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*ads*.*set|grep -v "#" >> hol.tmp.txt
-cat refs/blocklist-ipsets/*coin*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*chain*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/firehol_level2.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/firehol_level3.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/firehol_level4.*set|grep -v "#" >> hol.tmp.txt
