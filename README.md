@@ -25,6 +25,6 @@ cd output/
 
 # Warning:
 Someone used this tool may cause your server cannot access outside.
-Because we used public malware site lists, your server could have been used for cyber-attack.
+Because we used public malware site lists, your server could been used for cyber-attack.
 You should scan your server carefully.
 
