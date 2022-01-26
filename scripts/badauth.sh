@@ -9,8 +9,9 @@ cat /etc/hosts.deny|awk -F ': ' '{print $2}' > deny.txt
 iprange invalid.txt nego.txt failed.txt deny.txt --optimize > bad.txt
 iprange -1 bad.txt > bad.ips.txt
 echo "" > count.txt
-for ip in $(cat bad.txt);do count=$(grep "$ip" auth.bad.txt|wc -l); echo "$ip $count" >> count.txt;done
+for ip in $(cat bad.ips.txt);do count=$(grep "$ip" auth.bad.txt|wc -l); echo "$ip $count" >> count.txt;done
 cat count.txt | sort -t" " -nk2
 grep "/" bad.txt > ssh.badnet.txt
 grep -v "/" bad.txt > ssh.badip.txt
+rm bad.txt deny.txt failed.txt invalid.txt nego.txt bad.ips.txt
 
