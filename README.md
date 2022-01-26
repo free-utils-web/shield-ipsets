@@ -11,16 +11,16 @@ cd shield-ipsets
 ```
 In `output/`, you will get `ipset.txt` and `netset.txt`.
 
-```
-#first use:
+####first use:
+```bash
 cd output/
-. ../scripts/create.sh
+. ../scripts/create-srv.sh
 ```
 
-```
-#refresh:
+####refresh:
+```bash
 cd output/
-. ../scripts/refresh.sh
+. ../scripts/refresh-srv.sh
 ```
 
 # Warning:
