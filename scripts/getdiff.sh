@@ -14,5 +14,5 @@ count=$(cat output/netset.del|wc -l); echo "netset.del $count" >> output/count.t
 count=$(cat output/ipset.del|wc -l); echo "ipset.del $count" >> output/count.txt
 count=$(cat output/netset.add|wc -l); echo "netset.add $count" >> output/count.txt
 count=$(cat output/ipset.add|wc -l); echo "ipset.add $count" >> output/count.txt
-cat count.txt | sort -t" " -nk2
+cat output/count.txt | sort -t" " -nk2
 
