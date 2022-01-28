@@ -162,3 +162,4 @@
 [2022-01-28T07:43:07.873Z] "GET /_profiler/phpinfo HTTP/1.1" 301 - 0 0 0 - "146.19.168.194" "Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36" "?" "?" "-"
 [2022-01-28T07:44:30.907Z] "CONNECT - HTTP/1.1" 404 NR 0 0 0 - "173.225.110.122" "Go-http-client/1.1" "?" "azenv.net:443" "-"
 [2022-01-28T07:44:20.296Z] "GET / HTTP/1.1" 301 - 0 0 0 - "173.225.110.122" "Go-http-client/1.1" "?" "azenv.net" "-"
+[2022-01-28T08:36:40.493Z] "HEAD / HTTP/1.1" 301 - 0 0 0 - "143.198.10.117" "Mozilla/4.0 (compatible; Netcraft Web Server Survey)" "?" "voice.dt-bd.com" "-"
