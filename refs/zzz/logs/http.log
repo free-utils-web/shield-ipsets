@@ -251,3 +251,5 @@
 [2022-01-30T10:04:44.975Z] "GET / HTTP/1.1" 301 - 0 0 0 - "150.109.11.43" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36" "?" "?IP?" "-"
 [2022-01-30T10:13:00.878Z] "GET / HTTP/1.1" 301 - 0 0 0 - "157.25.155.29" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "?" "?IP?" "-"
 [2022-01-30T10:16:26.569Z] "GET /manager/html HTTP/1.1" 301 - 0 0 0 - "201.217.152.162" "Mozilla/5.0 Gecko/20100101" "?" "?IP?" "-"
+[2022-01-30T10:28:11.449Z] "GET / HTTP/1.0" 426 - 0 0 0 - "-(165.227.104.166)" "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)" "-" "voice.dt-bd.com" "-"
+[2022-01-30T10:39:20.499Z] "GET / HTTP/1.0" 426 - 0 0 0 - "-(80.106.74.30)" "-" "-" "?IP?" "-"
