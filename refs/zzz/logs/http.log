@@ -253,3 +253,4 @@
 [2022-01-30T10:16:26.569Z] "GET /manager/html HTTP/1.1" 301 - 0 0 0 - "201.217.152.162" "Mozilla/5.0 Gecko/20100101" "?" "?IP?" "-"
 [2022-01-30T10:28:11.449Z] "GET / HTTP/1.0" 426 - 0 0 0 - "-(165.227.104.166)" "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)" "-" "voice.dt-bd.com" "-"
 [2022-01-30T10:39:20.499Z] "GET / HTTP/1.0" 426 - 0 0 0 - "-(80.106.74.30)" "-" "-" "?IP?" "-"
+[2022-01-30T11:21:06.487Z] "GET / HTTP/1.0" 426 - 0 0 0 - "-(104.206.128.66)" "https://gdnplus.com:Gather Analyze Provide." "-" "-" "-"
