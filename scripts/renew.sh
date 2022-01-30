@@ -1,5 +1,6 @@
 #!/bin/sh
 
+git submodule foreach 'git reset --hard;git fetch origin master;git checkout master --force'
 mkdir output
 cat refs/blocklist-ipsets/*abuse*.*set|grep -v "#" > hol.tmp.txt
 cat refs/blocklist-ipsets/*spam*.*set|grep -v "#" >> hol.tmp.txt
