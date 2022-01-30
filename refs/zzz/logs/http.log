@@ -243,3 +243,7 @@
 [2022-01-30T07:13:15.145Z] "POST /boaform/admin/formLogin HTTP/1.1" 301 - 0 0 0 - "176.97.210.244" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" "?" "?:?" "-"
 [2022-01-30T07:47:30.119Z] "GET / HTTP/1.1" 301 - 0 0 0 - "13.89.223.12" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36" "?" "?IP?" "-"
 [2022-01-30T08:20:13.940Z] "GET / HTTP/1.1" 301 - 0 0 0 - "192.241.208.43" "Mozilla/5.0 zgrab/0.x" "?" "?IP?" "-"
+[2022-01-30T09:28:36.992Z] "GET / HTTP/1.1" 301 - 0 0 0 - "170.231.52.118" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "?" "?:?" "-"
+[2022-01-30T09:37:54.163Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - "20.127.143.23" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "?" "?IP?" "-"
+[2022-01-30T09:37:54.988Z] "POST / HTTP/1.1" 301 - 0 0 0 - "20.127.143.23" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "?" "?IP?" "-"
+[2022-01-30T09:42:24.366Z] "GET /vendor/.env HTTP/2" 301 - 0 0 2 - "165.227.118.143" "curl/7.52.1" "?" "?IP?" "-"
