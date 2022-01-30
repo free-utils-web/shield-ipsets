@@ -247,3 +247,5 @@
 [2022-01-30T09:37:54.163Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - "20.127.143.23" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "?" "?IP?" "-"
 [2022-01-30T09:37:54.988Z] "POST / HTTP/1.1" 301 - 0 0 0 - "20.127.143.23" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "?" "?IP?" "-"
 [2022-01-30T09:42:24.366Z] "GET /vendor/.env HTTP/2" 301 - 0 0 2 - "165.227.118.143" "curl/7.52.1" "?" "?IP?" "-"
+[2022-01-30T10:04:44.969Z] "GET / HTTP/1.1" 301 - 0 0 0 - "150.109.11.43" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36" "?" "?:?" "-"
+[2022-01-30T10:04:44.975Z] "GET / HTTP/1.1" 301 - 0 0 0 - "150.109.11.43" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36" "?" "?IP?" "-"
