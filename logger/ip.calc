@@ -1,0 +1,13 @@
+=IF(LEN($PROWNUM)<7,
+  IF(ISERROR(FIND("--",$IROWNUM)),
+    IF(ISERROR(REGEX($IROWNUM,",((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}")),
+      $IROWNUM,
+      REGEX(REGEX($IROWNUM,",((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}"),
+        "((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}")),
+    MID($IROWNUM,FIND("--",$IROWNUM)+2,FIND("++",$IROWNUM)-FIND("--",$IROWNUM)-2)),
+  IF(ISERROR(FIND($PROWNUM,$IROWNUM)),
+    $PROWNUM,
+    IF(FIND($PROWNUM,$IROWNUM)+LEN($PROWNUM)=LEN($IROWNUM)+1,
+      $PROWNUM,
+      MID($IROWNUM,FIND("--",$IROWNUM)+2,FIND("++",$IROWNUM)-FIND("--",$IROWNUM)-2))))
+
