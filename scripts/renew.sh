@@ -7,10 +7,15 @@ cat refs/blocklist-ipsets/*spam*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*shield*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*bad*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*black*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*dark*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*malic*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*attac*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*bot*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*ads*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*ssl*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*threat*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*tor*.*set|grep -v "#" >> hol.tmp.txt
+cat refs/blocklist-ipsets/*bl.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/*chain*.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/firehol_level2.*set|grep -v "#" >> hol.tmp.txt
 cat refs/blocklist-ipsets/firehol_level3.*set|grep -v "#" >> hol.tmp.txt
