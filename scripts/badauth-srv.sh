@@ -1,6 +1,7 @@
 #!/bin/sh
 
-grep -E "invalid user|Failed password|Unable to negotiate" /var/log/auth.log* > auth.bad.txt
+grep -E "invalid user|Failed password|Unable to negotiate" ../logs/*auth.log > auth.bad.txt
+grep -E "invalid user|Failed password|Unable to negotiate" /var/log/auth.log >> auth.bad.txt
 grep 'invalid' auth.bad.txt | awk -F 'from ' '{print $2}' | awk -F ' port' '{print $1}' | grep -v 'HNAP' | awk -F ' ' '{print $4}' | iprange > invalid.txt
 grep 'invalid' auth.bad.txt | awk -F 'from ' '{print $2}' | awk -F ' port' '{print $1}' | grep 'HNAP' | awk -F ' ' '{print $5}' | iprange >> invalid.txt
 grep 'Unable to negotiate' auth.bad.txt | awk -F 'with ' '{print $2}' | awk -F ' port' '{print $1}' | iprange > nego.txt

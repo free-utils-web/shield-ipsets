@@ -1704,3 +1704,5 @@
 [2022-02-10T13:13:54.199Z] "GET / HTTP/1.1" 301 - 0 0 1 - 110.37.216.70 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7" ? ?:? -
 [2022-02-10T13:41:30.663Z] "GET / HTTP/1.1" 301 - 0 0 0 - 178.79.149.78 "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0" ? ?IP? -
 [2022-02-10T14:01:13.325Z] "GET / HTTP/1.1" 301 - 0 0 0 - 46.109.76.182 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:? -
+[2022-02-10T14:13:59.646Z] "GET / HTTP/2" 301 - 0 0 1 - 178.79.149.78 "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0" ? ?IP? -
+[2022-02-10T15:38:43.447Z] "GET / HTTP/1.1" 301 - 0 0 0 - 192.241.201.228 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
