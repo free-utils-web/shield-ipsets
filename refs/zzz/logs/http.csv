@@ -1868,3 +1868,12 @@
 [2022-02-14T14:11:28.050Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --45.95.68.79++ - - - -
 [2022-02-14T15:46:10.493Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --193.29.13.29++ - - - -
 [2022-02-14T15:49:33.952Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --113.74.252.116++ - - - -
+[2022-02-14T18:26:44.526Z] "POST / HTTP/1.1" 301 - 0 0 1 - 144.91.92.127 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-02-14T18:26:45.545Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 144.91.92.127 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-02-14T21:06:43.993Z] "GET / HTTP/1.1" 301 - 0 0 0 - 66.79.96.232 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:? -
+[2022-02-14T23:53:09.552Z] "GET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.1" 301 - 0 0 0 - 192.241.210.247 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-02-15T00:37:17.629Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 185.254.196.223 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-02-15T00:37:35.875Z] "POST / HTTP/1.1" 301 - 0 0 0 - 185.254.196.223 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-02-15T01:21:05.085Z] "GET / HTTP/1.0" 426 - 0 0 0 - --181.224.209.130++ - - ?IP? -
+[2022-02-15T02:22:52.856Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 137.117.106.206 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0" ? ?IP? -
+[2022-02-15T02:25:33.234Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --137.117.106.206++ - - - -
