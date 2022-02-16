@@ -2047,3 +2047,5 @@
 [2022-02-16T08:52:51.327Z] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 301 - 0 0 0 - 175.100.20.202 python-requests/2.24.0 ? ?IP? -
 [2022-02-16T09:05:12.270Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --138.121.52.137++ - - - -
 [2022-02-16T10:18:28.224Z] "GET / HTTP/1.1" 301 - 0 0 0 - 190.96.126.2 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?:? -
+[2022-02-16T10:20:16.826Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 143.198.96.64 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? voice.dt-bd.com -
+[2022-02-16T10:20:22.242Z] "POST / HTTP/1.1" 301 - 0 0 0 - 143.198.96.64 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? voice.dt-bd.com -
