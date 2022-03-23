@@ -5728,3 +5728,6 @@
 [2022-03-22T04:18:52.775Z] "GET / HTTP/1.1" 301 - 0 0 0 - 104.140.188.10 "https://gdnplus.com:Gather Analyze Provide." ? ?IP?:443 -
 [2022-03-22T06:20:45.405Z] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 301 - 0 0 0 - 192.241.196.211 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
 [2022-03-22T16:30:12.590Z] "GET /currentsetting.htm HTTP/1.1" 301 - 0 0 0 - 146.185.136.187 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36" ? ?IP? -
+[2022-03-22T22:50:23.101Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 188.213.26.194 Java/1.6.0_13 ? ?IP? -
+[2022-03-22T23:35:40.198Z] "GET / HTTP/2" 301 - 0 0 0 - 88.80.187.203 "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0" ? ?IP? -
+[2022-03-23T04:00:23.716Z] "GET /ReportServer HTTP/1.1" 301 - 0 0 0 - 192.241.220.178 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
