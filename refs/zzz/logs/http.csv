@@ -5747,3 +5747,9 @@
 [2022-03-24T06:24:04.422Z] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 301 - 0 0 0 - 192.241.224.59 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
 [2022-03-24T06:39:41.907Z] "GET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.1" 301 - 0 0 0 - 192.241.226.20 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
 [2022-03-24T11:14:09.780Z] "GET /remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession HTTP/1.1" 301 - 0 0 0 - 179.60.147.11 Python-urllib/3.8 ? ?IP?:443 -
+[2022-03-24T16:13:49.320Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 157.90.247.204 "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" ? ?IP? -
+[2022-03-24T16:28:51.766Z] "GET /actuator/health HTTP/1.1" 301 - 0 0 0 - 192.241.222.201 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-24T17:48:16.081Z] "GET / HTTP/1.1" 301 - 0 0 0 - 206.189.34.197 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" ? ?IP? -
+[2022-03-24T17:56:07.684Z] "GET /.git/HEAD HTTP/1.1" 301 - 0 0 0 - 44.234.116.99 Python-urllib/3.6 ? ?IP? -
+[2022-03-24T19:11:48.756Z] "GET / HTTP/1.1" 301 - 0 0 0 - 192.241.225.224 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-24T19:15:00.472Z] "GET / HTTP/1.1" 301 - 0 0 0 - 64.225.1.162 "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)" ? ?IP? -
