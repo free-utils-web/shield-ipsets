@@ -5901,3 +5901,8 @@
 [2022-03-30T07:16:28.069Z] "GET /favicon.ico HTTP/2" 301 - 0 0 5 - 185.220.100.253 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" ? ?IP?:443 -
 [2022-03-30T07:52:48.803Z] "GET / HTTP/1.1" 301 - 0 0 0 - 64.62.197.32 - ? ?IP? -
 [2022-03-30T09:16:52.561Z] "GET / HTTP/1.1" 301 - 0 0 0 - 192.53.170.163 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" ? ?IP? -
+[2022-03-30T18:50:23.420Z] "GET /actuator/health HTTP/1.1" 301 - 0 0 1 - 192.241.226.104 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-30T19:44:31.540Z] "GET / HTTP/1.1" 301 - 0 0 0 - 178.79.169.97 "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0" ? ?IP? -
+[2022-03-30T21:34:29.433Z] "GET / HTTP/1.1" 301 - 0 0 0 - 192.241.223.96 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-03-30T22:24:03.468Z] "GET / HTTP/1.0" 426 - 0 0 0 - --152.32.234.128++ - - ?IP?:443 -
+[2022-03-30T22:48:43.531Z] "GET / HTTP/1.1" 301 - 0 0 1 - 54.204.164.214 "Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/55.0.3045.51 Safari/537.32" ? ?IP? -
