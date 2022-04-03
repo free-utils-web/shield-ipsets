@@ -1,4 +1,6 @@
 www.portainer.io
+docs.portainer.io
 qt.io
 www.qt.io
 1.1.1.1
+proxy.golang.org
