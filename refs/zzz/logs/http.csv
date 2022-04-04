@@ -6457,3 +6457,12 @@
 [2022-04-04T14:06:56.584Z] "GET /azenv.php HTTP/1.0" 426 - 0 0 0 - --82.6.35.49++ - - pascal.hoez.free.fr -
 [2022-04-04T15:09:40.944Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --185.167.98.76++ - - - -
 [2022-04-04T16:25:01.340Z] "GET / HTTP/1.1" 301 - 0 0 0 - 192.241.223.60 "Mozilla/5.0 zgrab/0.x" ? ?IP?:8080 -
+[2022-04-04T18:02:36.181Z] "GET /actuator/health HTTP/1.1" 301 - 0 0 0 - 192.241.223.233 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-04-04T19:10:52.737Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 34.210.177.79 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-04-04T19:10:54.397Z] "POST / HTTP/1.1" 301 - 0 0 0 - 34.210.177.79 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-04-04T18:02:01.913Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --192.241.215.196++ - - - -
+[2022-04-04T18:43:46.284Z] "GET / HTTP/1.1" 301 - 0 0 0 - 103.10.231.36 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7" ? ?IP?:80 -
+[2022-04-04T19:09:40.863Z] "GET / HTTP/1.1" 301 - 0 0 0 - 27.124.32.187 - ? ?IP?:8443 -
+[2022-04-04T19:10:02.685Z] "GET /favicon.ico HTTP/1.1" 301 - 0 0 0 - 27.124.32.187 Go-http-client/1.1 ? ?IP?:8443 -
+[2022-04-04T19:10:06.090Z] "GET /robots.txt HTTP/1.1" 301 - 0 0 0 - 27.124.32.187 Go-http-client/1.1 ? ?IP?:8443 -
+[2022-04-04T19:10:09.509Z] "GET /sitemap.xml HTTP/1.1" 301 - 0 0 0 - 27.124.32.187 Go-http-client/1.1 ? ?IP?:8443 -
