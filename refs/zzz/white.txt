@@ -5,3 +5,7 @@ www.qt.io
 1.1.1.1
 proxy.golang.org
 lb.wordpress.com
+gitlab.com
+about.gitlab.com
+bitbucket.org
+
