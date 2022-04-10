@@ -8,4 +8,6 @@ lb.wordpress.com
 gitlab.com
 about.gitlab.com
 bitbucket.org
+vcpkg.io
+crl.verisign.com
 
