@@ -10,4 +10,5 @@ about.gitlab.com
 bitbucket.org
 vcpkg.io
 crl.verisign.com
+logincdn.msauth.net
 
