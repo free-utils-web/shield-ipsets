@@ -12,4 +12,5 @@ vcpkg.io
 crl.verisign.com
 logincdn.msauth.net
 rawsec.gitlab.io
+www.cpu-world.com
 
