@@ -16,4 +16,8 @@ www.cpu-world.com
 babynames.com
 powerfolder.com
 ldra.com
+nextcloud.com
+docs.nextcloud.com
+help.nextcloud.com
+cncf.io
 
