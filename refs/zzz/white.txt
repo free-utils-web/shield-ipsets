@@ -20,4 +20,5 @@ nextcloud.com
 docs.nextcloud.com
 help.nextcloud.com
 cncf.io
+bit.ly
 
