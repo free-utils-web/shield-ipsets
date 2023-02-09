@@ -24,4 +24,27 @@ bit.ly
 bitly.com
 0.0.0.0
 tianyancha.com
+docker.com
+iclykofte.com
+law.stanford.edu
+www.tenways.com
+dl09.zlibcdn.com
+rclone.org
+velvetyne.fr
+instagram.com
+wenq.org
+mitxpc.com
+www.pythontutorial.net
+pythontutorial.net
+nabendynamo.de
+delock.de
+quantixed.org
+underpop.online.fr
+realtech-vr.com
+osxwiki.com
+uwe-sieber.de
+127.0.0.1
+iproyal.com
+archive.ubuntu.com
+archlinux.org
 
